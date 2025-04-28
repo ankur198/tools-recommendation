@@ -13,3 +13,5 @@ For each area create a separate md file with the following columns:
 - Recommended for Prod Environment
 
 At the end of documents make sure to add final recommended solution for dev and prod environment
+
+View kubernetes.md as an example for structure
